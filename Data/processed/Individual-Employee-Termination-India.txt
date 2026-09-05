@@ -1,0 +1,711 @@
+
+
+===== PAGE 1 =====
+
+PRACTICE NOTE
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+by Nipasha Mahanta, Sayantani Saha, and Vikram Shroff, Nishith Desai Associates
+Status: Law stated as at 01-May-2023 | Jurisdiction: India
+This document is published by Practical Law and can be found at: uk.practicallaw.tr.com/w-035-3396 
+Request a free trial and demonstration at: uk.practicallaw.tr.com/about/freetrial
+A Practice Note addressing the legal and practical issues that arise when terminating the 
+employment of individuals in India.
+This Note considers the reasons enabling lawful individual employee termination as well as what 
+constitutes an unlawful termination. It also addresses the procedures for individual employee 
+terminations and best practices to minimise the risk of legal challenges.
+There are several important legal issues to consider 
+when an employer or employee is seeking to terminate 
+employment in India. These include the reason for 
+termination, any process that must be followed, the 
+termination payments which may be owed to the 
+employee, and when a termination is unlawful.
+This Note sets out the key details on these topics and 
+explains which laws underpin them. It explains the 
+concept of retrenchment and distinguishes between 
+how the law on termination applies to workmen and 
+non-workmen. The Note also outlines redundancy as a 
+ground for termination and the courts’ position on this, 
+and how the law on termination applies to an employee 
+on probation.
+Relevant Laws on Termination
+In India, employment can only be terminated for a 
+reasonable cause or misconduct (see Misconduct). The 
+concept of “at-will” employment is not recognised under 
+Indian law.
+The Industrial Disputes Act, 1947 (ID Act) and 
+the corresponding state-specific rules provide 
+for employment termination (retrenchment (see 
+Retrenchment). Additionally, several state-specific 
+labour laws (applicable to commercial establishments) 
+also contain employment termination provisions.
+The terms of employment as contained in the 
+employer’s standing orders (a set of terms and 
+conditions of employment as envisaged under the 
+Industrial Employment (Standing Orders) Act, 1946 
+(IESOA), if any), employment contract, and HR policies 
+must also be considered. Generally, provisions in the 
+employment contract that are more favourable to the 
+employee will override the law.
+There is no legal requirement to engage in consultation 
+or have collective bargaining agreements with trade 
+unions, unless the employer has recognised any 
+trade union in the establishment (that is, it accepts a 
+particular trade union having a representative character 
+in its workforce).
+The ID Act applies only to employees categorised as 
+“workmen”. Workmen are individuals employed to do 
+any manual, unskilled, skilled, technical, operational, 
+clerical, or supervisory work for hire or reward (section 
+2(s), ID Act). A workman excludes any employee 
+primarily engaged in a managerial or administrative 
+capacity, or in a supervisory capacity earning wages 
+exceeding INR10,000 per month.
+No distinction exists between individual terminations 
+and collective or mass terminations under Indian 
+labour law. In cases of reduction-in-force, there are 
+certain specific provisions under the law with which the 
+employer must comply (see Redundancy).
+For non-workmen category employees, termination 
+takes place as per the statutory state-specific notice 
+requirements, the employee’s contract, and the 
+establishment’s HR policies, as there is no central law 
+which applies to termination of non-workmen.
+Reasons for Termination
+Indian laws permit termination of employment for 
+misconduct (see Misconduct).
+Additionally, Indian courts have generally recognised 
+the following as reasonable causes for termination of 
+employment:
+•	 Non-performance.
+•	 Redundancy.
+
+
+===== PAGE 2 =====
+
+2   Practical Law
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+•	 Loss of confidence in the employee’s ability to perform 
+their duties and obligations.
+The employer should support each of these reasons with 
+sufficient evidence or proof on record to successfully 
+defend a claim for wrongful termination in the Indian 
+courts.
+Courts’ Power
+If an employee (including non-workmen) files a claim for 
+unlawful termination of employment and is successful, 
+the court may direct any or all of the following:
+•	 Reinstatement of the employee.
+•	 Payment of back wages.
+•	 Compensation.
+Indian courts are typically pro-employee. Therefore, 
+Indian employers should be meticulous with their 
+documentation as evidence or proof on record relating 
+to employment termination.
+Retrenchment
+Retrenchment is the termination by the employer of 
+the service of a workman for any reason, other than as 
+a sanction by way of disciplinary action (section 2(oo), 
+ID Act).
+Retrenchment Exclusions
+Retrenchment excludes:
+•	 Voluntary retirement of the workman.
+•	 Retirement of the workman on reaching the age of 
+superannuation if the employment contract between 
+the employer and the workman concerned contains 
+a stipulation to that effect. (The ID Act does not 
+provide a specific age for superannuation but under 
+the Employees’ Provident Funds and Miscellaneous 
+Provisions Act, 1952, it is 58 years old.)
+•	 Termination of the service of the workman if their 
+fixed-term contract (FTC) is:
+–– not renewed on its expiry; or
+–– terminated for any other reason stipulated in the 
+contract.
+See also Practice Note, Fixed-Term Contracts 
+(India).
+•	 Termination of the service of a workman on the 
+ground of continued ill-health.
+•	 Termination of employment for misconduct, for which 
+a separate process applies in line with the principles 
+of natural justice (see Misconduct).
+Conditions for Retrenchment
+The conditions for retrenchment of a workman who 
+has been in continuous service for at least one year 
+(interpreted as 240 days of continuous service (section 
+25B, ID Act)) are:
+•	 The workman has been either:
+–– given one month’s notice in writing indicating the 
+reasons for retrenchment and the period of notice 
+has expired; or
+–– paid in lieu of that notice wages for the period of 
+the notice.
+•	 The workman has been paid, at the time of 
+retrenchment, compensation (severance) equivalent 
+to 15 days’ average pay for every completed year of 
+continuous service or any part of a year in excess of six 
+months.
+•	 Notice in the prescribed manner is served on the 
+government in the prescribed format.
+(Section 25F, ID Act.)
+For industrial establishments such as factories, 
+mines, and plantations with at least 100 workmen on 
+an average working day in the past 12 months, the 
+following are the conditions for retrenchment:
+•	 The workman has been either:
+–– given three months’ notice in writing indicating the 
+reasons for retrenchment and the period of notice 
+has expired; or
+–– paid in lieu of that notice wages for the period of 
+the notice.
+•	 The workman, at the time of retrenchment, has been 
+paid compensation equivalent to 15 days’ average pay 
+for every completed year of continuous service or any 
+part of a year in excess of six months.
+•	 The employer has obtained the prior permission of the 
+government before retrenching the workman.
+(Section 25N, ID Act.)
+The number of workmen required for the above 
+conditions to apply is increased to 300 in select Indian 
+states. The proposed new labour codes in India also 
+increase the limit to 300 workers (section 77, Industrial 
+Relations Code, 2020).
+Notice of Retrenchment
+The timeline and format for the notice of retrenchment 
+to the government is prescribed under the central or 
+state rules corresponding to the ID Act. For example, as 
+per the Industrial Disputes (Maharashtra) Rules, 1957, 
+the authorities should be notified either:
+
+
+===== PAGE 3 =====
+
+3   Practical Law
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+•	 Not less than 21 days before the date of retrenchment, 
+if the notice of retrenchment has been given to a 
+workman.
+•	 Within seven days of the date of retrenchment if the 
+notice of retrenchment has not been given but the 
+workman is paid wages in lieu of notice.
+•	 Where the retrenchment is carried out under an 
+agreement:
+–– at least one month before the date of termination if 
+that date is specified in the agreement; or
+–– on the date of that agreement, where the date of 
+termination is not so specified.
+The Shops and Establishments Acts (state-specific laws 
+applicable to commercial establishments) require an 
+employer to provide at least one month’s (30 days’) 
+prior notice or pay in lieu if employment is terminated 
+for reasonable cause. The provisions on termination of 
+employment under most of the state-specific Shops and 
+Establishment Acts are applicable once the employee 
+has completed a minimum period of employment. 
+This is typically up to six months. Some of the Shops 
+and Establishments Acts do not specifically apply to 
+employees working in a managerial capacity.
+See also Practice Note, Notice of Termination (India).
+Redundancy
+Indian courts recognise redundancy of position as a 
+valid ground for termination of employment (see for 
+example the Madras High Court judgment in India Type 
+and Rubber Co v Their Workmen, AIR 1958 Mad 205). 
+Courts have in the past upheld redundancies on account 
+of reasons such as:
+•	 Cessation of a particular type of business activity.
+•	 Automation and technological advancements.
+•	 Organisational restructuring in the case of a merger 
+and acquisition (M&A).
+As the courts in India (especially the lower courts) tend 
+to take a conservative and pro-employee approach, it 
+is critical that the employer demonstrates (by way of 
+adequate documentation):
+•	 That the role is no longer relevant and is being 
+eliminated from the organisation due to relevant 
+business reasons.
+•	 How each employee was selected or shortlisted.
+•	 Given each of the employees’ experience and skill 
+sets, that there is no possibility of re-training them or 
+providing other opportunities with the employer or its 
+affiliates by way of an internal transfer.
+The employer should create a business case of 
+redundancy before employment termination. While 
+this is not legally required, it would help demonstrate 
+the genuineness of the reasons behind the termination 
+should the employee challenge the termination in a 
+court of law or if they raise an allegation of victimisation. 
+All business cases should be documented at the Indian 
+entity level as the Indian courts are unlikely to accept 
+some global decisions made at the parent entity level.
+The business case may alternatively be supported by a 
+resolution of the board of directors of the Indian entity. 
+If the termination is challenged in a court of law by 
+an employee or group of employees or trade unions, 
+a well drafted business case would help the employer 
+demonstrate that the redundancy was not a sham and 
+that there were adequate business reasons warranting 
+the elimination of those roles.
+Redundancy Process for Workmen
+In cases of redundancy or reduction-in-force when 
+terminating an employee who is a workman under the 
+ID Act, the employer should take the following steps 
+before making a final termination decision: 
+•	 Prepare and post (in a conspicuous place on company 
+premises) a list of all workmen who will be retrenched, 
+set out according to seniority of their service in 
+that category, seven days before the employees’ 
+retrenchment date.
+•	 Follow the rule of last in, first out for selecting 
+an employee to be terminated. The employer 
+must justify any deviation from that rule (section 
+25G, ID Act). This is only applicable to workmen 
+category employees. There is no such selection 
+criterion mentioned under the law for non-workmen 
+category of employees.
+Neither redundancy nor reduction-in-force are legally 
+defined. Redundancy is typically interpreted in the 
+context of an employee’s role becoming redundant 
+owing to the employer’s business-related reasons. 
+Reduction-in-force is generally used in case of mass 
+redundancies leading to employment downsizing.
+The ID Act also requires the employer to provide 
+an opportunity to the retrenched workmen to offer 
+themselves for re-employment if the employer employs 
+any persons in the future. These workmen must be 
+given preference over others (section 25H, ID Act). 
+This typically applies only to workmen retrenched for 
+redundancies.
+Indian labour laws do not provide for any consultation 
+process before finalising the decision to terminate 
+individual employment for business reasons.
+
+
+===== PAGE 4 =====
+
+4   Practical Law
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+The ID Act also has additional provisions for cases of 
+closing down an undertaking. Employers are required to 
+provide 60 days’ notice to workmen (in establishments 
+with at least 50 workmen) before closing down an 
+undertaking along with payment of retrenchment 
+compensation (sections 25FFA and 25FFF). Closure 
+of establishments such as factories, mines, and so on 
+which employ at least 100 workmen (in some states, 
+the threshold is 300) requires approval from the labour 
+authorities at least 90 days before the date of closure 
+(section 25O).
+Performance or Capability 
+Reasons
+Indian labour laws do not provide a specific list of 
+performance or capability reasons for which an employer 
+may terminate employment. Typically, in cases of 
+employee non-performance, the employer should:
+•	 Document the non-performance.
+•	 Inform or provide regular feedback to the employee 
+regarding the non-performance in writing.
+•	 Provide an opportunity to the employee to improve 
+performance.
+Since termination due to poor performance is largely 
+practice driven, employers adopt varied methods to 
+handle the documentation. Typically, the employer 
+should require their managers to provide performance 
+feedback to their subordinates to ensure timely 
+documentation of any employee non-performance.
+Although not a legal requirement, employers typically 
+implement a performance improvement process, 
+whereby the employer documents its employees’ 
+performance following certain subjective and objective 
+performance indicators.
+A performance improvement plan may be helpful to 
+prove the employer’s efforts to provide the employee an 
+opportunity to improve performance before the decision 
+for termination was taken. There is no legally stipulated 
+period for the performance improvement process, but it 
+generally ranges from 30 to 60 days.
+If the employee consistently fails to show improvement 
+in performance, the employer may adequately 
+document this and initiate a process of termination, if 
+deemed necessary.
+Performance issues are separate from misconduct. 
+Employers should not confuse the two reasons for 
+termination. The documentation for performance issues 
+should be limited to the employee’s inability to meet 
+the desired performance standards (see the Supreme 
+Court decision in Gupta v SNB National Centre, 2007(1) 
+SLR45(SC)).
+In India, there is no legal requirement to provide a “last 
+chance agreement” to a non-performing employee. 
+However, the employer should document the fact that 
+the employee was provided an opportunity to improve 
+their performance before it initiates the termination.
+Misconduct
+The IESOA typically applies to manufacturing 
+establishments and commercial establishments in 
+states where the Payment of Wages Act, 1936 applies 
+under the state-specific Shops and Establishments Acts. 
+Under the IESOA, the Model Standing Orders prescribe 
+the following acts as misconduct:
+•	 Fraud.
+•	 Unauthorised absenteeism.
+•	 Willful insubordination.
+•	 Sexual harassment.
+•	 Willful damage to the employer’s property.
+•	 Misappropriation.
+An employer may take disciplinary action against 
+an employee for that misconduct. A similar list is 
+also provided under some state-specific Shops and 
+Establishments Acts, such as Uttar Pradesh Dookan Aur 
+Vanijya Adhishthan Adhiniyam, 1962.
+The employer’s policies or standing orders should set 
+out what constitutes misconduct warranting termination 
+of an employee through specific examples or in general 
+terms.
+Disciplinary Enquiry Process
+Before the employer prescribes the applicable sanction 
+(proportionate to the misconduct), the misconduct must 
+first be proved through an internal disciplinary enquiry 
+process based on the principles of natural justice.
+Once the misconduct is established through a formal 
+enquiry, an employer can terminate employment 
+as a sanction, provided that the sanction applied is 
+proportionate to the gravity of the misconduct (see BC 
+Chaturvedi v Union of India, 1995 6 SCC 749).
+The disciplinary enquiry process typically includes the 
+following:
+•	 Charge sheet. The employer must serve a charge 
+sheet on an employee against whom an enquiry is 
+initiated. The charge sheet states each of the charges 
+against the employee and seeks their explanation for 
+those charges. It must include adequate references to 
+the relevant provisions in the employment contract, 
+policies, or any applicable standing orders. While 
+the charge sheet can be sent by registered post, 
+
+
+===== PAGE 5 =====
+
+5   Practical Law
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+it should be served in person where possible. An 
+acknowledgement must be obtained on the office copy.
+•	 Preliminary fact-finding. In some cases, the 
+employer may conduct a preliminary fact-finding or 
+investigation exercise to understand the nature of the 
+misconduct.
+•	 Appointment of an enquiry officer. An enquiry 
+officer must be appointed to conduct the disciplinary 
+enquiry. The enquiry officer must not be biased in any 
+way and can be internal or external to the company.
+•	 Notice of enquiry. The employee must be served with 
+a notice of the disciplinary enquiry stating the date, 
+time, venue, name of enquiry officer, and so on. The 
+employer may need to issue appropriate letters to 
+the employee if they provide an explanation for the 
+charges or do not provide any explanation.
+•	 Principles of natural justice. The enquiry must be 
+held in accordance with the principles of natural 
+justice, that is, the employee must be given:
+–– proper notice of the enquiry;
+–– a fair chance to present their case and defend 
+themselves; and
+–– an opportunity to produce any witnesses or cross-
+examine the witnesses produced by the employer.
+•	 HR policies. The employer must comply with any 
+specific procedure for holding a disciplinary enquiry 
+set out in the company’s policies, standing orders (if 
+applicable), code of conduct, and so on.
+•	 Suspension and payment of subsistence allowance. 
+The employer may suspend the employee during the 
+enquiry proceedings (although this is not warranted 
+in all situations). Suspension is generally a security 
+measure when the employee’s continued presence in 
+the workplace:
+–– may lead to tampering with evidence;
+–– may create unpredictable difficulties in conducting 
+an impartial enquiry into the charges levelled 
+against them;
+–– could have an adverse effect on the morale of the 
+other employees; or
+–– could cause further loss to the company.
+The employee must be paid subsistence allowance 
+during the period of suspension in accordance with 
+the provisions of the applicable HR policies. If no 
+subsistence allowance is provided for in the HR 
+policies that are in place, the employer is required 
+to pay full salaries to a suspended employee, in the 
+absence of any laws permitting payment of a lower 
+subsistence allowance.
+•	 Ex-parte enquiry. If the employee refuses to attend 
+before the enquiry officer after proper notice, the 
+enquiry officer can conduct the enquiry in the 
+employee’s absence. Before holding an ex-parte 
+enquiry, the employer should make every possible 
+effort to serve the notice of enquiry personally. If 
+service of notice is impossible, it should be published 
+on the notice board of the company, as well as in 
+newspapers having wide local circulation. Generally, 
+if it can be proven that the employee was deliberately 
+and willfully refusing to accept notice and appear 
+before the enquiry officer, the enquiry officer can 
+proceed with the inquiry ex-parte.
+•	 Calling witnesses. During the enquiry, the employee 
+as well as the employer may present witnesses before 
+the enquiry officer. The employee must be given 
+an opportunity to cross-examine the employer’s 
+witnesses and vice versa.
+•	 Enquiry report. The enquiry must be conducted 
+in accordance with any timeline provided by the 
+employer’s policies or standing orders (if any). 
+Once the enquiry is complete, the enquiry officer 
+must prepare an enquiry report, clearly stating the 
+conclusion of the enquiry supported by reasons based 
+on the facts and evidence presented before the officer.
+Based on the enquiry officer’s report and if the 
+misconduct is proved, the employer can take appropriate 
+disciplinary action to sanction the employee, including 
+termination, if deemed proportionate and appropriate.
+There is no legal requirement to communicate 
+the findings of the enquiry to the employee. Some 
+employers, based on their policies and standing 
+orders (if any), and exercising caution, may provide a 
+second notice of cause to the employee, along with a 
+communication of findings of the enquiry report, before 
+proceeding with termination.
+Resignation
+The ID Act does not contain any provisions on voluntary 
+resignation. Resignation is a purely voluntary act on the 
+part of the employee. Indian law does not prescribe any 
+restrictions limiting an employee’s ability to resign.
+The ID Act does not specify any notice period obligations 
+for a resigning employee. However, some standing 
+orders and state-specific Shops and Establishments 
+Acts require employees to provide their employer prior 
+notice of a specific minimum period before stopping 
+work after resigning.
+Generally, offer letters or employment agreements 
+govern the notice period and other requirements relating 
+to voluntary resignation. In most cases, there are no 
+statutory requirements governing employee resignation.
+Certain statutory payments associated with termination 
+of employment, including severance (retrenchment 
+
+
+===== PAGE 6 =====
+
+6   Practical Law
+Reproduced from Practical Law, with the permission of the publishers. For further information visit uk.practicallaw.thomsonreuters.com
+or call +44 20 7542 6664. Copyright ©Thomson Reuters 2023. All Rights Reserved.
+Individual Employee Termination (India)
+compensation) and notice period payments, do not 
+apply in the event of voluntary resignation.
+Employers in India generally prefer to encourage or 
+incentivise the employee to voluntarily resign rather 
+than terminate their employment. Since unlawful 
+termination is one of the most litigated issues under 
+Indian labour law, termination is typically considered 
+the last resort. Voluntary resignation largely helps to 
+mitigate litigation risk relating to unlawful termination. 
+The concept of constructive dismissal has not been 
+statutorily recognised in India.
+Unlawful Terminations
+An employer is not legally allowed to serve a 
+termination notice to an employee in the following 
+circumstances:
+•	 When a female employee is absent from work in 
+accordance with the provisions of the Maternity 
+Benefit Act, 1961, to:
+–– discharge or dismiss that employee on account of 
+the absence from work; or
+–– give notice of discharge or dismissal on a day so 
+that the notice will expire during the absence.
+•	 To dismiss, discharge, reduce, or otherwise punish an 
+employee during the period the employee is:
+–– in receipt of sickness benefit or maternity benefit;
+–– in receipt of disablement benefit for temporary 
+disablement;
+–– under medical treatment for sickness; or
+–– absent from work due to illness arising out of 
+pregnancy or confinement rendering the employee 
+unfit for work.
+(Employees’ State Insurance Act, 1948 (ESIA).)
+Employers should also be mindful of India’s anti-
+discrimination laws, especially if the employee belongs 
+to a protected category. The Rights of Persons with 
+Disabilities Act, 2016, the Transgender Persons (Protection 
+of Rights) Act, 2019 and the Human Immunodeficiency 
+Virus and Acquired Immune Deficiency Syndrome 
+(Prevention and Control) Act, 2017 are some statutes that 
+provide protections against discrimination in employment 
+to certain categories of employees. Those employees may 
+bring discrimination-related claims if proper procedure 
+has not been followed for their termination.
+Probationary Periods
+The Model Standing Orders under the IESOA define the 
+term “probationer” as a workman who is provisionally 
+employed to fill a permanent vacancy in a post and has 
+not yet completed three months’ service. This definition 
+applies only to establishments to which the IESOA 
+applies (see Misconduct). However, since no other 
+federal law provides this definition, some guidance can 
+be taken from this definition itself.
+In practice, the probationary period adopted by 
+employers in India varies between three to six months 
+from the date of commencement of employment. It is 
+customary for the employer and employee agree the 
+probationary period based on the employee’s seniority 
+level and experience.
+If an employee is within a probationary period which 
+is less than one year, the ID Act provisions relating 
+to retrenchment do not apply, as the workman has 
+not completed the minimum work period threshold 
+(which is at least one year of completed service) (see 
+Retrenchment).
+However, state-specific laws may apply. For example, 
+the Delhi Shops and Establishments Act, 1954 (DSEA) 
+provides that the employer may terminate an employee 
+who has been employed for at least three months, on 
+giving one month’s notice or pay in lieu. Accordingly, if 
+the probationary period is more than three months, the 
+provisions under DSEA on termination are still applicable 
+since the applicability threshold is only three months.
+If the employee wishes to resign during the probationary 
+period, they must comply with:
+•	 The notice period obligations under any applicable 
+state-specific Shops and Establishments Acts.
+•	 Any employment terms and conditions in the 
+employment agreement between the parties.
+Certain state-specific rules of central laws may also be 
+applicable at the end of the probationary period. For 
+example, in Maharashtra, the employer must issue an 
+order in writing to make a probationer permanent in the 
+post in which they are provisionally employed after the 
+probationer has successfully completed three months’ 
+uninterrupted service in that post, within seven days 
+from the date of completion of that service (Section 
+4-A, Maharashtra Industrial Employment (Standing 
+Orders) Rules, 1959). If the probationer’s services 
+are unsatisfactory, the manager may terminate their 
+services after their probationary period.
+Termination Payments
+The following statutory payments need to be considered 
+in relation to termination:
+•	 Accrued and unpaid wages up to the termination date.
+•	 Payment in lieu of the notice period (minimum of one 
+month as per the applicable laws. If the employment 
+contract provides for a higher notice period, that 
+
+
+===== PAGE 7 =====
+
+Legal solutions from Thomson Reuters
+Thomson Reuters is the world’s leading source of news and information 
+for professional markets. Our customers rely on us to deliver the 
+intelligence, technology and expertise they need to find trusted answers. 
+The business has operated in more than 100 countries for more than  
+100 years. For more information, visit www.thomsonreuters.com
+Individual Employee Termination (India)
+higher notice must be provided). See also Practice 
+Note, Notice of Termination (India).
+•	 Severance (retrenchment compensation) calculated 
+at the rate of 15 days’ pay for every completed year of 
+service or any part of a year in excess of six months. 
+This only applies to workmen category of employees 
+who have completed at least one year (interpreted 
+as 240 days) of employment. Severance payment 
+calculations are based on the definition of wages 
+under the ID Act, which refers to gross wages.
+•	 Gratuity in accordance with the Payment of Gratuity 
+Act, 1972 (POGA). This is payable only to employees 
+(by an employer of at least ten employees) who have 
+completed at least five years (interpreted as four 
+years and 190 days) of continuous service with the 
+employer. Gratuity must be paid at the rate of 15 days’ 
+wages based on the rate of wages last drawn by the 
+employee for every completed year of continuous 
+service or part of a year in excess of six months 
+(Section 4, POGA). The definition of wages under 
+POGA is interpreted to mean basic wages. Gratuity is 
+capped at INR2 million (POGA).
+•	 Wages in lieu of accrued and unavailed (privilege or 
+annual) leave up to a state-specific prescribed limit. 
+The term “privilege leave” is interchangeably used 
+with annual leave. It typically refers to leave which the 
+employee is statutorily entitled to receive as a matter 
+of right under the law.
+•	 Arrears of statutory bonus, where applicable.
+Any other accrued contractual dues such as bonuses, 
+Employee Stock Option Plans (ESOP), and so on owed 
+to the employee must be paid at the time of termination.
+An employer cannot avoid compliance with the 
+requirement to have a reasonable cause or permissible 
+grounds for termination by offering severance, 
+indemnification, or a similar payment.
+If an employer terminates an employee and is unable 
+to prove reasonable cause for termination before the 
+courts in an unlawful termination claim, the court may 
+order remedies (which may include compensation and 
+reinstatement, for example).
+If the employee resigns (rather than employer-led 
+termination), there is no legal requirement to pay 
+severance (retrenchment compensation), or any notice 
+period payments mentioned above. However, all other 
+payments listed above must be made.
+Timelines
+If the employment of any person is terminated by or on 
+behalf of the employer, the wages they earned should be 
+paid before the expiry of the second working day from 
+the day of termination (Section 5(2), Payment of Wages 
+Act, 1936). Payment of retrenchment compensation 
+and notice pay should be before or on the date of 
+retrenchment.
+Date of Termination
+The law does not specifically prescribe any guidance 
+regarding the date of termination. Generally, the notice 
+of termination cites the last day of employment, which is 
+considered the effective date of termination, and when the 
+rights and obligations of the employer and employee end. 
+However, there are certain termination-related payments 
+that must be made before the termination (see Timelines).
+Termination and Other Related 
+Agreements
+There is no statutory requirement to execute a termination 
+agreement in the case of employer-initiated termination.
+Indian labour laws do not contain any specific provisions 
+relating to mutual termination or mutual separation 
+from employment. Generally, separation and release 
+agreements are signed in the case of voluntary resignation 
+or mutual separation (see Practice Note, Separation 
+Agreements (Employment): India: Overview). In practice, 
+and to ensure amicable separation, employers prefer to 
+enter into mutual separation agreements with employees 
+rather than initiate termination. However, these 
+agreements largely remain untested by Indian courts.
+A separation agreement contains clauses reminding 
+the employee of their post-termination obligations, 
+including confidentiality, IP, and non-solicit and 
+non-compete restrictions. Post-termination non-
+compete clauses are not enforceable in India but 
+post-termination non-solicit clauses may be enforceable 
+if they are reasonable. Non-compete and non-solicit 
+clauses within the term of employment are enforceable.
+Typically, a separation agreement also evidences the 
+payment of contractual ex-gratia payments to the 
+employee, which also acts as consideration for signing 
+the agreement. To be admissible as evidence in courts, 
+it is advisable to have the agreement stamped as per 
+applicable stamp duty law on or before the date of 
+execution (see the Indian Stamp Act, 1899 and state-
+specific laws on stamp duty, which are applicable based 
+on the state where the contract is to be executed, for 
+example, the Maharashtra Stamp Act).

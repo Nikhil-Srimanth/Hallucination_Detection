@@ -1,0 +1,135 @@
+
+
+===== PAGE 1 =====
+
+ 
+ 
+ 
+96, Free Press House, Free Press Journal Road, Nariman Point, Mumbai 400 021, India 
+Tel: +91 22 6123-7272; Fax: 6123-7252; E-mail: mailbox@majmudarindia.com 
+Other Office – Bangalore | Integrated Network Offices – Chennai, Hyderabad and New Delhi 
+www.majmudarindia.com 
+Page 1 
+Restrictive covenants in employment: Delhi High Court holds non-compete 
+clause unenforceable post-termination 
+By: Sanchita Makhija, Majmudar & Partners, India 
+ 
+Introduction 
+ 
+In India, restrictive covenants are subject to strict scrutiny.  Just recently, in Vijaya Bank & 
+Anr. v. Prashant B. Narnaware, 2025 INSC 691, India’s Supreme Court, while specifying that 
+its ruling should not be treated as definitive law for all cases, upheld the validity of an 
+employment bond which required the employee to pay liquidated damages to the employer 
+in case of failure to complete a minimum-service tenure requirement (please see here a 
+detailed analysis of the Supreme Court’s decision).   
+ 
+An Indian court was yet again called upon to interpret the scope and enforceability of 
+restrictive covenants in Varun Tyagi v. Daffodil Software Private Limited, CM APPL. No. 
+36613 of 2025.  In this case, the Delhi High Court (the “Delhi HC”) held that post-
+termination restrictions on employment are void under Section 27 of the Indian Contract 
+Act, 1872 (the “Indian Contract Act”), unless they protect confidential information or 
+proprietary interests. 
+ 
+This update discusses the judgment and analyses its potential impact. 
+  
+Background 
+ 
+Varun Tyagi (the “Appellant”), an information technology engineer, was employed by 
+Daffodil Software Private Limited (the “Respondent”) and assigned to a government project 
+called the POSHAN Tracker (the “Project”) for the Digital India Corporation (“DIC”).  At the 
+time of employment, the Appellant had executed an employment agreement with the 
+Respondent which included a non-solicitation and non-compete clause prohibiting the 
+Appellant from working with any “business associate” of the Respondent during the 
+subsistence of employment and for three (3) years post-termination.  
+ 
+The Appellant resigned from the Respondent’s employment in January 2025 and, after 
+serving a three (3) month notice period, joined DIC in April 2025.  DIC, at the time, was a 
+“business associate” of the Respondent.   
+ 
+The Respondent, alleging breach of the restrictive covenants, filed a suit before the trial 
+court seeking a permanent injunction to restrain the Appellant from working with DIC and 
+the National E-Governance Division (the “NeGD”).  The trial court granted an interim 
+injunction restraining the Appellant from working with DIC and NeGD and also injuncted the 
+Appellant from disclosing confidential information belonging to the Respondent, which had 
+been acquired by the Appellant during the course of his employment with the Respondent.  
+It should be highlighted that the confidential information, intellectual property, source 
+code, and proprietary material relating to the Project subsisted entirely with DIC under its 
+engagement with the Respondent. 
+
+
+===== PAGE 2 =====
+
+ 
+ 
+ 
+96, Free Press House, Free Press Journal Road, Nariman Point, Mumbai 400 021, India 
+Tel: +91 22 6123-7272; Fax: 6123-7252; E-mail: mailbox@majmudarindia.com 
+Other Office – Bangalore | Integrated Network Offices – Chennai, Hyderabad and New Delhi 
+www.majmudarindia.com 
+Page 2 
+ 
+The trial court’s interim injunction was later confirmed by the trial court’s order dated June 
+3, 2025 (the “Impugned Order”).  The Appellant challenged this Impugned Order before the 
+Delhi HC.  
+ 
+The Delhi HC ruling 
+ 
+ 
+The Delhi HC quashed the Impugned Order and allowed the Appellant to continue his 
+employment with DIC by holding that the non-compete clause provided in the employment 
+agreement of the Appellant is void under Section 27 of the Indian Contract Act.  The Delhi 
+HC relied on established precedents, including Superintendence Co. of India v. Krishan 
+Murgai, (1981) 2 SCC 246, Percept D’Mark (India) (P) Ltd. v. Zaheer Khan, (2006) 4 SCC 227 
+and Wipro Ltd. v. Beckman Coulter International S.A., OMP 463 of 2005, to reinforce the 
+principle that any restrictive covenant extending beyond the term of employment is void 
+and that partiality of restraint is irrelevant under the Indian Contract Act.  For context, 
+Section 27 of the Indian Contract Act stipulates that an agreement which restrains anyone 
+from carrying on a lawful profession, trade or business, is void to that extent, unless it falls 
+within a limited exception such as the sale of goodwill. 
+ 
+The judgment further provides as follows: 
+ 
+• Partial restraints: The Delhi HC held that reasonableness and the extent of restraint, i.e., 
+whether the restraint is partial or complete, is irrelevant when determining whether a 
+contractual term amounts to a restraint of trade, business, or profession under Section 
+27 of the Indian Contract Act. 
+ 
+• Proprietary claims: The Respondent contended that the Appellant had access to 
+confidential information and proprietary technology.  However, the Delhi HC noted that 
+the agreements between DIC and the Respondent expressly stated that the intellectual 
+property and source code rights in the Project vested with DIC and not the Respondent.  
+The Delhi HC, therefore, held that there was no legitimate proprietary interest justifying 
+a restraint on employment by the Respondent. 
+ 
+• Balance of convenience: The Delhi HC observed that restraining the Appellant from 
+continuing in his role at DIC will result in significant hardship and financial prejudice to 
+him.  Conversely, the Delhi HC also stated that the Respondent’s concerns can be 
+addressed through damages, if the breach of contract is proven; therefore, the balance 
+of convenience lay in favour of the Appellant. 
+ 
+Our comments 
+ 
+The judgment of the Delhi HC affirms the strict approach of Indian courts towards post-
+termination restrictive covenants, emphasizing that such restraints are unenforceable 
+unless they are narrowly tailored to protect confidential information or genuine proprietary 
+
+
+===== PAGE 3 =====
+
+ 
+ 
+ 
+96, Free Press House, Free Press Journal Road, Nariman Point, Mumbai 400 021, India 
+Tel: +91 22 6123-7272; Fax: 6123-7252; E-mail: mailbox@majmudarindia.com 
+Other Office – Bangalore | Integrated Network Offices – Chennai, Hyderabad and New Delhi 
+www.majmudarindia.com 
+Page 3 
+interests.  Needless to say, this ruling may be appealed to the Supreme Court, and it will be 
+interesting to watch how the Supreme Court rules. 
+ 
+In any case, employers should ensure that employment agreements are carefully drafted 
+and any post-termination restrictions are limited to the protection of confidential 
+information and do not amount to a general prohibition on future employment.  In our 
+view, as Indian employment jurisprudence continues to evolve, companies should revisit 
+their employment contracts to ensure compliance with prevailing legal standards and 
+mitigate litigation risk. 

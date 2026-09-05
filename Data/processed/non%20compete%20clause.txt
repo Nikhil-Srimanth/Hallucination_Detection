@@ -1,0 +1,656 @@
+
+
+===== PAGE 1 =====
+
+ 
+ 
+21 | P a g e               J o u r n a l H o m e P a g e – h t t p s : / / l l r . i l e d u . i n /   
+ILE LABOUR LAW REVIEW [ILE LLR] 
+VOLUME 3 AND ISSUE I OF 2024 
+APIS – 3920 – 0009 | ISSN - 2583-6161 
+Published by 
+Institute of Legal Education 
+https://iledu.in 
+ 
+NON- COMPETE CLAUSES DURING AND POST-TERMINATION OF 
+AGREEMENT 
+AUTHOR - AKSHITA SHARMA, STUDENT AT SYMBIOSIS LAW SCHOOL, PUNE 
+BEST CITATION - AKSHITA SHARMA, NON- COMPETE CLAUSES DURING AND POST-TERMINATION OF 
+AGREEMENT, ILE LABOUR LAW REVIEW, 3 (1) OF 2024, PG. 21-25, APIS – 3920 – 0009 | ISSN – 2583-6161. 
+INTRODUCTION 
+A non-compete clause prevents a person from starting a new business, taking up employment, or 
+engaging with a competing entity. “Such clauses have long been controversial, as they conflict with 
+Section 27 of the Indian Contract Act, 1872,which declares that any agreement restricting a person 
+from pursuing a lawful profession, trade, or business is void, except in cases where goodwill has been 
+sold.”47 It can be seen that “Sections 54 and 55 of the Indian Partnership Act, 1932, validate 
+reasonable restrictions on partners from engaging in similar businesses upon dissolution or following 
+the sale of goodwill.” 48 
+                                                          
+47 “The Indian Contract Act, 1872, (§) 27, No. 9, Acts of Parliament, 1872 (India).” 
+48 “The Indian Partnership Act, 1932, (§) 27, No. 9, Acts of Parliament, 1932 (India).” 
+
+
+===== PAGE 2 =====
+
+ 
+ 
+22 | P a g e               J o u r n a l H o m e P a g e – h t t p s : / / l l r . i l e d u . i n /   
+ILE LABOUR LAW REVIEW [ILE LLR] 
+VOLUME 3 AND ISSUE I OF 2024 
+APIS – 3920 – 0009 | ISSN - 2583-6161 
+Published by 
+Institute of Legal Education 
+https://iledu.in 
+  
+“Article 19(g) of the Constitution of India 
+provides every citizen the right to practice any 
+profession, trade, or business.” “This is not an 
+absolute right and reasonable restrictions can 
+be placed on this right in the interest of the 
+public, the courts have always been wary of 
+upholding such restrictions and have kept the 
+interpretation of this provision flexible to ensure 
+that principle of justice, morality, and fairness 
+are aptly applied, depending upon facts and 
+circumstances of each case.” 
+Indian courts have delivered a range of judicial 
+pronouncements 
+that 
+have 
+progressively 
+clarified the legal stance on non-compete 
+clauses in agreements. The judicial approach 
+has seen a gradual evolution, starting from 
+early cases like “Madhub Chunder Poramanick 
+v. Rajcoomar Doss and Ors.”49 to more recent 
+instances involving non-compete clauses in 
+agreements of major IT companies such as 
+Infosys. 
+To comprehensively understand the position of 
+non-compete clauses under Indian law, it is 
+essential to distinguish between non-compete 
+clauses 
+during 
+the 
+subsistence 
+of 
+an 
+agreement and those post-termination of the 
+agreement. 
+ENFORCEABILITY OF NON-COMPETE CLAUSE 
+DURING THE SUBSISTENCE OF THE AGREEMENT 
+Various judgments indicate that non-compete 
+clauses in agreements are enforceable while 
+the agreement is active. This has been clearly 
+established in cases such as “Madhub Chunder 
+Poramanick v. Rajcoomar Doss and Ors ”50 and 
+“Percept D’Mark India Pvt Ltd v. Zaheer Khan ”51 
+among plethora of other judgements.   
+“The Hon’ble Supreme Court in the case 
+of Niranjan 
+Shankar 
+Golikari 
+v. 
+Century 
+Spinning & Manufacturing Co. Ltd held that, 
+preventing 
+an 
+employee 
+from 
+providing 
+services to the employer’s competitor during 
+                                                          
+49 “Madhub Chunder Poramanick v. Rajcoomar Doss and Ors, (1874) Beng LR 76.” 
+50 Ibid.  
+51 “Percept D’Mark India Pvt Ltd v. Zaheer Khan, (2006) 4 SCC 227.” 
+the course of employment is not void. It is 
+essential 
+for 
+fulfilment 
+of 
+terms 
+of 
+the 
+agreement and to protect the interests of the 
+employer. ”52 “Thereby, not violating section 27 
+of the ICA. It is merely a tool towards the 
+fulfilment of the employment contract and not 
+a restraint of trade because it only requires the 
+employee to serve the employer exclusively.  In 
+the case of Percept D'Mark (India) Pvt. Ltd. v. 
+Zaheer Khan and Anr, ”53 the Apex Court 
+observed, 
+ "Under Section 27 of the Contract Act: 
+1. 
+A restrictive covenant extending beyond 
+the term of the contract is void and not 
+enforceable. 
+2. The doctrine of restraint of trade does 
+not apply during the continuance of the 
+employment contract and is applied 
+only when the contract comes to an 
+end. 
+3. As held by this Court in Gujarat Bottling 
+v. Coca Cola, this doctrine is not 
+confined 
+only 
+to 
+contracts 
+of 
+employment, but is also applicable to all 
+other contracts”54 
+In short, a non-compete clause in an Indian 
+employment agreement is enforceable as long 
+as the employee is performing work for the 
+company by the terms of that agreement. 
+ENFORCEABILITY OF NON-COMPETE CLAUSE 
+POST TERMINATION OF THE AGREEMENT 
+The 
+enforceability 
+of 
+post-employment 
+restrictions 
+in 
+employment 
+agreements 
+is 
+contentious 
+and 
+generally 
+considered 
+unenforceable. In “Superintendence Company 
+of India (P) Ltd. v. Krishan Murgai ”55 and “Pepsi 
+Foods Ltd. & Ors v. Bharat Coca-Cola Holdings 
+Pvt Ltd & Ors,”56, the Hon’ble Court ruled that 
+                                                          
+52 “     Niranjan Shankar Golikari v. Century Spinning & Manufacturing Co. Ltd, 
+1967 SCR (2) 378.” 
+53 “     Percept D'Mark (India) Pvt. Ltd. v. Zaheer Khan and Anr, (2006) 4 
+SCC 227.” 
+54 “   The Indian Contract Act, 1872, (§) 27, No. 9, Acts of Parliament, 1872 
+(India).” 
+55 “    Superintendence Company of India (P) Ltd. v. Krishan Murgai, (1981) SCC 
+246.” 
+56“ Pepsi Foods Ltd. & Ors v. Bharat Coca-Cola Holdings Pvt Ltd & Ors, (1999) 
+SCC Online Del 530.” 
+
+
+===== PAGE 3 =====
+
+ 
+ 
+23 | P a g e               J o u r n a l H o m e P a g e – h t t p s : / / l l r . i l e d u . i n /   
+ILE LABOUR LAW REVIEW [ILE LLR] 
+VOLUME 3 AND ISSUE I OF 2024 
+APIS – 3920 – 0009 | ISSN - 2583-6161 
+Published by 
+Institute of Legal Education 
+https://iledu.in 
+contracts aimed at restraining trade are prima 
+facie void. In commercial agreements, non-
+compete clauses may extend beyond the 
+engagement period when linked to the sale of 
+business goodwill. These restrictions must be 
+reasonable, not against public policy, and 
+confined to specified local limits. For instance, in 
+“Ozone Spa Pvt. Ltd. v. Pure Fitness & Ors” 57, a 
+territorial limit of 4 km was deemed acceptable, 
+and in “GEA Energy System India Ltd. v. 
+Germanischer Lloyd Aktiengesellschaft ” 58 a 
+partial business restraint was permitted. 
+“The 
+Supreme 
+Court 
+of 
+India, 
+in 
+Superintendence Company of India (P) Ltd. v. 
+Sh. Krishan Murgai raised the question that 
+whether a post-service restrictive covenant 
+would fall within the mischief of section 27 of the 
+Contract Act. The court held that a contract, 
+which had for its object a restraint of trade, was 
+prima facie void.”59 
+“The Delhi High Court in Foods Ltd. and Others v. 
+Bharat Coca-cola Holdings Pvt. Ltd. & others 
+observed, It is well settled that such post-
+termination restraint, under Indian Law, violates 
+Section 27 of the Contract Act. Such contracts 
+are unenforceable, void, and against public 
+policy. What is prohibited by law cannot be 
+permitted by Court's injunction.”60 
+REASONABLENESS TEST FOR NON-COMPETE 
+CLAUSES IN NON-EMPLOYMENT CONTRACTS 
+Section 27 of the Indian Contract Act, 1872, 
+states that “Every agreement by which anyone 
+is restrained from exercising a lawful profession, 
+trade, or business of any kind, is to that extent 
+void. The exception allows for agreements 
+where the goodwill of a business is sold.”61 It has 
+been 
+well-established 
+through 
+various 
+judgments that non-compete clauses are 
+enforceable during the term of the agreement 
+                                                          
+57“   Ozone Spa Pvt. Ltd. v. Pure Fitness & Ors, (2015) DLT 372.” 
+58 “GEA Energy System India Ltd. v. Germanischer Lloyd Aktiengesellschaft, (2009) 
+149 Comp Cas 68.” 
+59 “Superintendence Company of India (P) Ltd. v. Sh. Krishan Murgai,  
+(1981) SCC 246.” 
+60      “Foods Ltd. and Others v. Bharat Coca-cola Holdings Pvt. Ltd. & 
+others, (1999) ILR 2 Delhi 193.” 
+61 “The Indian Contract Act, 1872, (§) 27, No. 9, Acts of Parliament, 1872 
+(India).” 
+but 
+become 
+void 
+after 
+the 
+agreement's 
+termination. However, in certain judgments, 
+particularly those not related to employment 
+contracts, the judiciary has recognized the 
+reasonableness of non-compete clauses and, 
+with limitations such as time period and 
+geographical scope, has enforced them.  
+“M/S Gujarat Bottling Co. (GBC) & Ors vs. Coca 
+Cola Co”62 -  
+The court imposed a restriction on GBC from 
+manufacturing, bottling, selling, or engaging in 
+any business related to beverages for one year, 
+with the geographical limitation confined to 
+their plants in Ahmedabad and Rajkot. The court 
+emphasized that such restraints on trade must 
+pass 
+the 
+test 
+of 
+reasonableness. 
+It 
+also 
+highlighted that the doctrine of restraint of 
+trade, rooted in public policy, is subject to 
+evolving interpretations based on changing 
+views of public interest.  
+“Ozone Spa Pvt. Ltd. vs. Pure Fitness & Ors”63- 
+The court in the case of the Franchise 
+Agreement restricted the franchise operation to 
+a designated territory or within a 4 km radius of 
+it after evaluating the balance of convenience 
+and irreparable loss in commercial contracts, 
+the court carefully weighed the competing 
+interests of the parties.  
+“GEA 
+Energy 
+System 
+India 
+Ltd. 
+vs. 
+Germanischer Lloyd Aktiengesellschaft,”64-  
+The reasonableness in this case stemmed from 
+the argument that allowing the respondents to 
+form a similar business with a third party would 
+cause incalculable harm to the joint venture. 
+The restriction was not absolute, as it did not 
+prevent all business activity only the activity 
+similar to the earlier joint venture. The joint 
+venture agreement was made on equal terms, 
+and the contract was neither overly harsh nor 
+one-sided. 
+Therefore, 
+the 
+balance 
+of 
+convenience was interpretated to justify the 
+                                                          
+62 “M/S Gujarat Bottling Co. (GBC) & Ors vs. Coca Cola Co, (1995) 5 SCC 
+545.” 
+63 “Ozone Spa Pvt. Ltd. vs. Pure Fitness & Ors, (2015 DLT 372).” 
+64 “GEA Energy System India Ltd. vs. Germanischer Lloyd Aktiengesellschaft, (2009) 
+149 Comp Cas 68.” 
+
+
+===== PAGE 4 =====
+
+ 
+ 
+24 | P a g e               J o u r n a l H o m e P a g e – h t t p s : / / l l r . i l e d u . i n /   
+ILE LABOUR LAW REVIEW [ILE LLR] 
+VOLUME 3 AND ISSUE I OF 2024 
+APIS – 3920 – 0009 | ISSN - 2583-6161 
+Published by 
+Institute of Legal Education 
+https://iledu.in 
+reasonability to enforce the non-compete 
+clause.  
+“Orchid Chemicals/ Hospira Healthcare” 65-  
+“The Competition Commission was of the view 
+that non-compete in a business transfer 
+agreement 
+(“BTA”) 
+obligations 
+should 
+be 
+reasonable particularly in respect of (a) the 
+duration 
+over 
+which 
+such 
+restraint 
+is 
+enforceable; and (b) the business activities, 
+geographical areas and person(s) subject to 
+such restraint, so as to ensure that such 
+obligations do not result in an appreciable 
+adverse effect on competition.”66 
+CRITICAL ANALYSIS 
+When critically analysing the provision of non-
+compete 
+clauses 
+in 
+India, 
+the 
+first 
+key 
+observation 
+is 
+the 
+difference 
+in 
+judicial 
+approach when dealing with non-compete 
+clauses in employment agreements versus 
+non-employment (commercial) agreements. 
+Indian courts have generally shown greater 
+leniency 
+towards 
+enforcing 
+non-compete 
+clauses 
+in 
+commercial 
+agreements 
+post-
+termination, provided the clause is reasonable. 
+This 
+is 
+primarily 
+because, 
+in 
+commercial 
+contracts, both parties are presumed to have 
+relatively 
+equal 
+bargaining 
+power 
+while 
+negotiating the terms, including restrictions. In 
+contrast, 
+in 
+employment 
+agreements, 
+employees are often at a disadvantage in 
+terms of bargaining power, which makes non-
+compete 
+clauses 
+post-termination 
+more 
+restrictive and less enforceable. 
+The 
+courts' 
+reasoning 
+also 
+considers 
+the 
+balance of convenience and irreparable loss to 
+businesses in commercial cases, making such 
+clauses permissible where the restrictions are 
+reasonable 
+in 
+terms 
+of 
+geography, 
+time 
+duration, and nature of business protection. 
+“However, these justifications typically do not 
+extend 
+to 
+post-termination 
+employment 
+agreements, 
+where 
+the 
+courts 
+prioritize 
+                                                          
+65 “Orchid Chemicals/ Hospira Healthcare, (C-2012/09/79).” 
+66 Ibid.  
+protecting an individual’s right to livelihood as 
+recognized under Article 21 of the Constitution.” 
+That said, there is a growing judicial recognition 
+of the employer's need to protect their business 
+interests. Employers often invest significant 
+resources in training employees and entrusting 
+them with confidential and sensitive business 
+information. 
+Allowing 
+employees 
+to 
+join 
+competitors immediately post-termination can 
+cause substantial harm to the company. 
+To strike a balance, courts could allow for 
+limited non-compete clauses post-termination, 
+particularly for a reasonable period (e.g., less 
+than six months), ensuring they do not violate 
+Section 27 of the Indian Contract Act, 1872, 
+which renders agreements in restraint of trade 
+void. A reasonable restriction that safeguards 
+business 
+interests 
+while 
+respecting 
+the 
+employee’s right to work could offer a more 
+pragmatic and legally tenable solution. 
+“It is imperative to note that depending on 
+whether the covenant was issued in the context 
+of a commercial transaction or as part of an 
+employment contract, the methodology of the 
+courts 
+in 
+resolving 
+the 
+question 
+of 
+reasonableness 
+differs 
+significantly.” 
+“Nevertheless, whether dealing with a non-
+compete provision in a business transaction or 
+any employment contract, there are no set 
+guidelines or limits to determine the extent to 
+which such terms can be accepted, therefore 
+each instance is unique.” 
+To 
+have 
+a 
+clear 
+understanding, 
+the 
+reasonableness of these terms can be judged 
+based on a variety of circumstances, and 
+clauses 
+that 
+go 
+beyond 
+the 
+limit 
+of 
+reasonableness are declared void. While it is a 
+settled position of law that non-compete 
+provisions bind employees during the term of 
+their 
+employment, 
+the 
+position 
+of 
+laws 
+regarding the validity of such restraints on 
+employees after termination of the employment 
+contract is more contentious and adjudicated 
+before the courts. 
+
+
+===== PAGE 5 =====
+
+ 
+ 
+25 | P a g e               J o u r n a l H o m e P a g e – h t t p s : / / l l r . i l e d u . i n /   
+ILE LABOUR LAW REVIEW [ILE LLR] 
+VOLUME 3 AND ISSUE I OF 2024 
+APIS – 3920 – 0009 | ISSN - 2583-6161 
+Published by 
+Institute of Legal Education 
+https://iledu.in 
+“While there is an inherent lacuna in the codified 
+law, with a limited capacity for determining the 
+validity and enforceability of such restrictive 
+covenants, employers have been urging the 
+increasing need to enforce restrictive covenants 
+through ever more ingenious methods.” “A 
+strong argument in favour has been the vital 
+need 
+to 
+guard 
+enterprise 
+value 
+through 
+reasonable methods.’’ 
+While taking into the analysis, certain post-
+termination restrictions are enforceable in the 
+United Kingdom as long as they pass the 
+reasonableness test, which means that the 
+restriction 
+is 
+intended 
+to 
+safeguard 
+the 
+employer's or buyer's proprietary interests. 
+ The "blue pencil" approach, which refers to the 
+ability of the courts to restrict the unreasonable 
+breadth of a non-compete clause to something 
+acceptable, is an intriguing idea that has been 
+embraced by courts in a few states in the 
+United 
+States 
+of 
+America. 
+This 
+idea 
+is 
+comparable to the "severability" principle, which 
+states that the enforceable part of a contract 
+remains in effect after the unenforceable part is 
+struck off. The court also has the authority to 
+revise the clause to make it more reasonable. 
+The 
+parties' 
+bargaining 
+strength 
+and 
+the 
+breadth and depth of the restriction are two 
+aspects that the courts take into account while 
+redrafting a non-compete agreement. The US 
+Federal Trade Commission has released a "final 
+rule" "banning non-competes nationwide" on 
+April 23, 2024. 
+CONCLUSION 
+The 
+question 
+arises 
+whether 
+reasonability 
+conflicts with Section 27 of the Indian Contract 
+Act (ICA), as the plain reading of the section 
+seems 
+to 
+disallow 
+non-compete 
+clauses. 
+However, strict interpretation would void many 
+modern commercial contracts. Indian courts 
+have 
+therefore 
+adopted 
+a 
+more 
+lenient 
+approach, especially when dealing with partial 
+restraints, evolving the doctrine of restraint of 
+trade. Key principles established by courts 
+include:  
+(1) the restriction must protect a legitimate 
+business interest; 
+(2) the covenant should not exceed what is 
+necessary for that protection; and  
+(3) non-compete clauses cannot be perpetual.  
+“By 
+upholding 
+reasonable 
+non-compete 
+clauses, the Indian legal framework seeks to 
+foster 
+a 
+fair 
+and 
+competitive 
+business 
+environment 
+while 
+respecting 
+individual 
+freedom.” 
+“While 
+the 
+judiciary's 
+position 
+on 
+the 
+enforceability 
+of 
+post-termination 
+non-
+compete covenants in employment contracts is 
+well established, courts adopt a more flexible 
+approach in commercial contracts, considering 
+the specific facts and circumstances of each 
+case to uphold principles of fairness and 
+natural justice.” “Additionally, the validity of 
+non-compete provisions varies across different 
+agreements, with courts taking into account the 
+negotiating power of the parties involved to 
+assess 
+the 
+legitimacy 
+of 
+such 
+restrictive 
+covenants.” 
+The 
+courts 
+have 
+consistently 
+evaluated 
+these 
+clauses 
+based 
+on 
+their 
+reasonableness and the particular context of 
+each situation.  
+ 

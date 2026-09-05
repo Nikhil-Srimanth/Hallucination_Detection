@@ -1,0 +1,288 @@
+
+
+===== PAGE 1 =====
+
+================================================================ 
+LEGALEAGLE - CLAUSE EXAMPLES: GOOD VS BAD 
+Indian Contract Law Reference | For RAG Knowledge Base 
+================================================================ 
+ 
+---------------------------------------------------------------- 
+1. NON-COMPETE CLAUSES 
+---------------------------------------------------------------- 
+ 
+BAD NON-COMPETE: 
+"Employee shall not work in any competing 
+business anywhere in India for 5 years 
+after leaving the company." 
+ 
+WHY IT'S BAD: 
+- Overly broad geographic scope (entire India) 
+- Excessive duration (5 years) 
+- Vague definition of "competing business" 
+- Likely unenforceable under Section 27 of Indian Contract Act, 1872 
+- No role or industry specificity 
+ 
+GOOD NON-COMPETE: 
+"Employee shall not work for direct 
+competitors in [City] for 12 months 
+following termination, limited to the 
+role of [specific role]." 
+ 
+WHY IT'S GOOD: 
+- Geographically limited and reasonable 
+- Time-bound (12 months) 
+- Role-specific restriction 
+
+
+===== PAGE 2 =====
+
+- Better chance of enforceability 
+- Protects legitimate business interest without undue hardship 
+ 
+---------------------------------------------------------------- 
+2. TERMINATION CLAUSES 
+---------------------------------------------------------------- 
+ 
+BAD TERMINATION: 
+"Company may terminate this agreement 
+at any time without notice or reason." 
+ 
+WHY IT'S BAD: 
+- Unilateral power with no accountability 
+- No notice period — exposes company to wrongful termination claims 
+- No provision for dues settlement 
+- Creates imbalance; may be challenged as unconscionable 
+- Non-compliant with Indian labour law norms 
+ 
+GOOD TERMINATION: 
+"Either party may terminate with 30 days 
+written notice. Company shall pay all 
+dues within 7 days of termination." 
+ 
+WHY IT'S GOOD: 
+- Mutual termination rights (balanced) 
+- Clear notice period (30 days) 
+- Explicit dues settlement timeline (7 days) 
+- Written notice requirement creates audit trail 
+- Aligned with standard Indian employment practices 
+ 
+---------------------------------------------------------------- 
+
+
+===== PAGE 3 =====
+
+3. INDEMNITY CLAUSES 
+---------------------------------------------------------------- 
+ 
+BAD INDEMNITY: 
+"Vendor shall indemnify Company for all 
+losses, damages, costs of any nature 
+without any limit." 
+ 
+WHY IT'S BAD: 
+- No cap on liability — disproportionate risk on vendor 
+- Unlimited scope ("of any nature") is commercially unreasonable 
+- May render the contract unenforceable or one-sided 
+- Does not distinguish between direct and indirect losses 
+- Discourages vendors from contracting 
+ 
+GOOD INDEMNITY: 
+"Vendor's total liability shall not exceed 
+the total fees paid in the preceding 
+3 months under this agreement." 
+ 
+WHY IT'S GOOD: 
+- Clear liability cap tied to contract value 
+- Proportionate and commercially fair 
+- Easier to negotiate and enforce 
+- Common standard in Indian B2B contracts 
+- Protects both parties from catastrophic exposure 
+ 
+---------------------------------------------------------------- 
+4. CONFIDENTIALITY / NDA CLAUSES 
+---------------------------------------------------------------- 
+ 
+
+
+===== PAGE 4 =====
+
+BAD CONFIDENTIALITY: 
+"Employee shall keep all company information 
+confidential forever and shall never disclose 
+anything to anyone under any circumstances." 
+ 
+WHY IT'S BAD: 
+- Perpetual duration is unreasonable and often unenforceable 
+- "Anything to anyone" is dangerously overbroad 
+- No carve-out for publicly available information 
+- No carve-out for legally compelled disclosure 
+- Chilling effect on normal professional communication 
+ 
+GOOD CONFIDENTIALITY: 
+"Employee shall maintain confidentiality of 
+proprietary business information for a period 
+of 3 years post-employment. This obligation 
+does not apply to information that is publicly 
+available or required to be disclosed by law 
+or court order." 
+ 
+WHY IT'S GOOD: 
+- Defined duration (3 years) 
+- Clear carve-outs for public info and legal compulsion 
+- Targets genuinely proprietary information 
+- Enforceable under Indian Contract Act 
+- Balances business protection with employee rights 
+ 
+---------------------------------------------------------------- 
+5. INTELLECTUAL PROPERTY ASSIGNMENT CLAUSES 
+---------------------------------------------------------------- 
+ 
+
+
+===== PAGE 5 =====
+
+BAD IP ASSIGNMENT: 
+"All ideas, inventions, and creations by the 
+employee, whether during or outside working 
+hours, belong entirely to the Company." 
+ 
+WHY IT'S BAD: 
+- Claims IP created outside scope of employment 
+- No restriction to company-related work 
+- Overreach — personal projects and pre-existing IP affected 
+- May be challenged as unconscionable 
+- Creates disputes over personal inventions 
+ 
+GOOD IP ASSIGNMENT: 
+"All work product, inventions, or developments 
+created by the Employee in the course of their 
+employment and using Company resources shall 
+vest in the Company. Pre-existing IP of the 
+Employee, listed in Schedule A, is excluded." 
+ 
+WHY IT'S GOOD: 
+- Scope limited to work done during employment using company resources 
+- Pre-existing IP explicitly excluded 
+- Schedule A attachment creates clear documentation 
+- Proportionate and legally sound 
+- Protects company without overreaching 
+ 
+---------------------------------------------------------------- 
+6. PAYMENT / INVOICE CLAUSES 
+---------------------------------------------------------------- 
+ 
+BAD PAYMENT CLAUSE: 
+
+
+===== PAGE 6 =====
+
+"Company shall pay the vendor when convenient 
+and reserves the right to withhold payment 
+if unsatisfied with deliverables." 
+ 
+WHY IT'S BAD: 
+- No defined payment timeline 
+- Subjective satisfaction standard — open to abuse 
+- Vendor has no legal certainty or recourse 
+- Creates cash flow risk for vendor 
+- Likely to cause disputes 
+ 
+GOOD PAYMENT CLAUSE: 
+"Company shall make payment within 30 days 
+of receiving a valid invoice. In case of 
+disputed amounts, the undisputed portion 
+shall be paid within 30 days and the 
+disputed amount resolved within 15 days 
+of raising a formal objection in writing." 
+ 
+WHY IT'S GOOD: 
+- Clear 30-day payment window 
+- Disputed vs undisputed amounts separated 
+- Written dispute process defined 
+- Aligned with MSME payment norms in India 
+- Reduces payment conflict risk 
+ 
+---------------------------------------------------------------- 
+7. DISPUTE RESOLUTION CLAUSES 
+---------------------------------------------------------------- 
+ 
+BAD DISPUTE RESOLUTION: 
+
+
+===== PAGE 7 =====
+
+"Any disputes will be settled in courts." 
+ 
+WHY IT'S BAD: 
+- Does not specify jurisdiction 
+- Does not specify governing law 
+- No mention of arbitration or mediation as first recourse 
+- Expensive and time-consuming for both parties 
+- Leaves parties with maximum uncertainty 
+ 
+GOOD DISPUTE RESOLUTION: 
+"Any dispute arising out of or in connection 
+with this Agreement shall first be attempted 
+to be resolved through mediation within 30 days. 
+If unresolved, disputes shall be referred to 
+arbitration under the Arbitration and Conciliation 
+Act, 1996, with a sole arbitrator mutually 
+appointed. The seat of arbitration shall be 
+[City], and the governing law shall be the 
+laws of India." 
+ 
+WHY IT'S GOOD: 
+- Mediation-first approach saves time and cost 
+- Arbitration as fallback — faster than civil courts 
+- Specific reference to Indian Arbitration Act, 1996 
+- Defined seat and governing law 
+- Mutually appointed arbitrator ensures neutrality 
+ 
+---------------------------------------------------------------- 
+8. FORCE MAJEURE CLAUSES 
+---------------------------------------------------------------- 
+ 
+
+
+===== PAGE 8 =====
+
+BAD FORCE MAJEURE: 
+"Neither party shall be liable for failure 
+to perform due to circumstances beyond 
+their control." 
+ 
+WHY IT'S BAD: 
+- "Circumstances beyond control" is vague 
+- No defined list of qualifying events 
+- No notification obligation 
+- No time limit on force majeure invocation 
+- Can be misused to avoid ordinary obligations 
+ 
+GOOD FORCE MAJEURE: 
+"Neither party shall be held liable for delay 
+or failure in performance caused by events 
+beyond reasonable control including but not 
+limited to natural disasters, war, pandemic, 
+government-imposed lockdowns, or grid failures, 
+provided the affected party notifies the other 
+in writing within 7 days of the event. If 
+the force majeure event persists beyond 60 days, 
+either party may terminate with written notice." 
+ 
+WHY IT'S GOOD: 
+- Specific qualifying events listed 
+- Mandatory 7-day notification obligation 
+- 60-day sunset clause prevents indefinite delay 
+- Right to terminate if prolonged 
+- Balanced protection for both parties 
+ 
+---------------------------------------------------------------- 
+
+
+===== PAGE 9 =====
+
+END OF CLAUSE EXAMPLES 
+LegalEagle Knowledge Base v1.0 
+Jurisdiction: India | Act Reference: Indian Contract Act, 1872 
+================================================================ 

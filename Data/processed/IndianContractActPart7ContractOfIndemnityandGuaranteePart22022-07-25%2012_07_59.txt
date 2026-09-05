@@ -1,0 +1,249 @@
+
+
+===== PAGE 1 =====
+
+ 
+ 
+ 
+ 
+ 
+Study Notes 
+Indian Contract Act, 1872 
+Special Contract- 
+Part 1 
+Contract of Indemnity 
+ &  
+Guarantee 
+ 
+
+
+===== PAGE 2 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+2  
+ 
+INTRODUCTION 
+ 
+The Indian Contract Act apart from laying down the provisions with respect to the 
+general principles of contract also lays down provision relating to certain types of special 
+contracts. These special contracts have been categorized into the following: 
+ 
+CONTRACT OF INDEMNITY  
+ 
+Section 124 of the Contract Act has defined the term indemnity as: 
+ A contract by which one party promises to save the other from loss caused 
+to him by the conduct of the promisor himself, or by the conduct of any 
+other person. 
+ Example: A contracts to indemnify B against the consequences of any 
+proceedings which C may take against B in respect of a certain sum of 200 
+rupees. This is a contract of indemnity. 
+ 
+Thus, from the above definition it is clear that indemnity is a contract, express or 
+implied wherein one party promises to safeguard the other from loss caused to him by 
+the conduct of the promisor himself, or by the conduct of any other person.  
+ 
+In other words, indemnity means to make good the loss or to compensate for the losses. 
+ 
+There are two parties in a contract of indemnity as under: 
+Special Contracts 
+Indemnity  & Guarantee 
+(Chapter VIII S.124-147)  
+Indemnity  & Guarantee 
+(Chapter VIII S.124-147)  
+Agency 
+(Chapter X  S.182-238) 
+
+
+===== PAGE 3 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+3  
+ 
+ 
+ Indemnifier is the promisor or the party who pays compensation for the loss of 
+the indemnified 
+ Indemnity –Holder/Indemnified on the other hand is the Promisee or the party 
+who bear’s loss and is therefore, compensated by the indemnifier. 
+ 
+ 
+The essential elements of contract of indemnity are: 
+ All the essential elements of Contract are required to be present for the very 
+formation of contract of indemnity too. 
+ Liability of the indemnifier arises when the contingency or loss occurs or 
+the loss is suffered by the indemnified. 
+ A contract of indemnity can be expressed through words Witten or oral; or 
+implied indemnity which arises due to the act or conduct of the parties. 
+ In the contract of indemnity compensation is provided by the indemnifier for the 
+loss suffered by Indemnity- Holder. 
+ 
+ 
+Section 125 of the Act provides for the rights of indemnity-holder when sued or in 
+other words, the promisee in a contract of indemnity, acting within the scope of his 
+authority, is entitled to recover from the promisor: - 
+ 
+ 
+ 
+ 
+Parties 
+Indemnifier 
+Indemnity –
+Holder/Indemnified 
+Rights of 
+Indenmnity-Holder 
+All Damages 
+All Costs 
+All Sums 
+
+
+===== PAGE 4 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+4  
+ 
+ all damages which he may be compelled to pay in any suit in respect of any 
+matter to which the promise to indemnify applies;  
+o The promisee is entitled to recover from the promisor damages which he 
+may be compelled to pay in any suit in respect of any matter to which the 
+promise to identify applies. 
+ 
+ all costs which he may be compelled to pay in any such suit if, in bringing or 
+defending it, he did not contravene the orders of the promisor, and acted as it 
+would have been prudent for him to act in the absence of any contract of 
+indemnity, or if the promisor authorized him to bring or defend the suit; 
+o The above right can be exercised if the following requisites are present: 
+ 
+If the orders of the promisor were not contravened; 
+ 
+Promisee acted in the same prudent manner as he would have 
+acted in the absence of any contract of indemnity; 
+ 
+Promisor authorized him to bring or defend the suit. 
+ 
+ all sums which he may have paid under the terms of any compromise of any 
+such suit, if the compromise was not contrary to the orders of the promisor, and 
+was one which it would have been prudent for the promisee to make in the 
+absence of any contract of indemnity, or if the promisor authorized him to 
+compromise the suit. 
+ 
+ 
+The Contract Act is however, silent about the rights of Indemnifier. However, the Courts 
+have held that the rights of indemnifier are the same as the rights of surety. Therefore, 
+the rights available to the indemnifier are as under: 
+ 
+ 
+ 
+ Refuse Indemnity: Indemnifier has the right to refuse indemnity to the 
+indemnity-holder in case the losses suffered by the indemnity holder is beyond 
+the contract. 
+Thus, the indemnifier has a right to pay for only those losses which are covered 
+in the contract of indemnity and not otherwise. 
+ 
+Rights of Indenmnifier 
+Refuse Indemnity 
+Right of Subrogation:  
+
+
+===== PAGE 5 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+5  
+ 
+ Right of Subrogation: This right basically is similar to that of the surety. It 
+basically means the process by which the rights will get shifted from one person 
+to another. In other words, it means that the after compensating the indemnity 
+holder for his loss the indemnifier has in certain cases the right to sue third party 
+who is liable for that.  
+ 
+ 
+ 
+CONTRACT OF GUARANTEE  
+ 
+Section 126 defines contract of guarantee as: A contract to perform the promise, or 
+discharge the liability, of a third person in case of his default.  
+ 
+In other words, the contract of guarantee can be said to be a contract wherein the 
+guarantor assures the creditor that the person in need i.e., the principal debtor may be 
+trusted. However, in case of any default on the part of the principal debtor, the guarantor 
+shall undertake the responsibility to pay. Thus, contract of guarantee is imperceptible 
+security given to the creditor. 
+ 
+Further, this section also defines the various parties in a contract of guarantee and also 
+mentions that a guarantee may be either oral or written. 
+ 
+There are three parties in a contract of guarantee as under: 
+ 
+ 
+ 
+ Surety: The person who gives the guarantee is called the "surety";  
+Rights of Indenmnifier 
+Refuse Indemnity 
+Subrogation 
+Parties 
+Surety 
+Principal Debtor 
+Creditor 
+
+
+===== PAGE 6 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+6  
+ 
+ Principal Debtor: The person in respect of whose default the guarantee is given 
+is called the "principal debtor", and  
+ Creditor: The person to whom the guarantee is given is called the "creditor".  
+ 
+ 
+The various essential elements of contract of guarantee are:  
+ All the essential elements of Contract are required to be present for the very 
+formation of contract of guarantee too. 
+ In the contract of guarantee there is the primary liability which is in existence 
+and the primary liability is that of the Principal Debtor. Thus, the liability of the 
+surety is secondary to that of the principal debtor and shall arise only when the 
+principal debtor makes a default. In other words, it means that since the primary 
+contract was between the creditor and principal debtor, in that case the liability to 
+fulfill the terms of the contract is primarily with the principal debtor and the surety 
+will only be liable in case of the default of the principal debtor. 
+ Concurrence of all the parties is required for the contract of guarantee. In other 
+words, all the three parties to the contract must agree to make such a contract 
+with the agreement of each other. In such a contract the surety takes his 
+responsibility to be liable for the debt of the principal debtor only on the request 
+of the principal debtor and therefore, communication either express or implied by 
+the principal debtor to the surety is necessary. Further, the communication by the 
+surety with the creditor for entering into a contract of guarantee without the 
+knowledge of the principal debtor will not constitute a valid contract of guarantee. 
+ There should be the existence of debt in a contract of guarantee. As it is a 
+contract to secure the payment of the debt taken by the principal debtor and 
+therefore, if no such debt exists then there is nothing left for the surety to secure.  
+ Consideration for guarantee is the things done or promise made for the benefit 
+of the Principal Debtor and is considered as sufficient consideration for surety.  
+o This provision has been specifically laid down under section 127 of the 
+Contract Act as: Anything done, or any promise made, for the benefit of 
+the principal debtor, may be a sufficient consideration to the surety for 
+giving the guarantee.  
+o Example: B requests A to sell and deliver to him goods on credit. A 
+agrees to do so, provided C will guarantee the payment of the price of the 
+goods. C promises to guarantee the payment in consideration of A’s 
+promise to deliver the goods. This is a sufficient consideration for C’s 
+promise. 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 7 =====
+
+Contract Act Contract of Indemnity & Guarantee                                                                
+         
+7  
+ 
+ 
+ 
+ 
